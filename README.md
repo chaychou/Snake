@@ -3,3 +3,5 @@
 python3
 
 pygame
+
+附带自动导航的贪吃蛇
